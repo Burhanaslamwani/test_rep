@@ -1,4 +1,3 @@
-hi my name is burhan
 i like to read news articles
 This is THE test line
 i am Editing in vim
@@ -14,5 +13,3 @@ this is the last linei am Editing in vim
 this is the last linei my name is burhan
 i like to read news articles
 This is THE test line
-i am Editing in vim
-this is the last line
